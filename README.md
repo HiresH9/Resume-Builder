@@ -1,3 +1,26 @@
+## Introduction
+
+resume_builder simplifies the process of creating and maintaining resumes. Users can input their personal details, educational background, and work experience into dedicated forms. The application then displays this information in a structured format and provides an option to download it as a PDF for easy sharing and printing.
+
+## Features
+
+- **Form Sections**:
+  - General Information: Capture personal details such as name, contact information, and summary.
+  - Education Information: Input details about degrees, institutions, cities, and GPAs.
+  - Practical Experience: Record work experience including company names, roles, descriptions, dates, and responsibilities.
+
+- **Display Section**:
+  - Render the entered information in a readable format.
+  - Download as PDF: Generate a downloadable PDF resume based on the displayed information.
+
+-**Technologies Used**
+  -React
+  -HTML/CSS
+  -JavaScript
+  -npm
+  -jsPDF
+  -html2canvas
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
