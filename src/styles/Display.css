@@ -1,0 +1,46 @@
+.Display {
+  font-family: Arial, sans-serif;
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.section {
+  margin-bottom: 20px;
+}
+
+.section h3 {
+  font-size: 1.5em;
+  color: #333;
+  margin-bottom: 10px;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 5px;
+}
+
+.section p {
+  margin-left: 20px;
+  line-height: 1.6;
+}
+
+.section.personal-info {
+  text-align: center;
+}
+
+.section.personal-info p {
+  margin: 0;
+  line-height: 1.8;
+}
+
+.section.education,
+.section.experience {
+  margin-top: 20px;
+}
+
+hr {
+  border: none;
+  border-top: 2px solid #ddd;
+  margin: 20px 0;
+}
