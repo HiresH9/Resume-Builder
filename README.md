@@ -15,13 +15,13 @@ resume_builder simplifies the process of creating and maintaining resumes. Users
   - Render the entered information in a readable format.
   - Download as PDF: Generate a downloadable PDF resume based on the displayed information.
 
-- **Technologies Used**:
-  -React
-  -HTML/CSS
-  -JavaScript
-  -npm
-  -jsPDF
-  -html2canvas
+## Technologies Used**:
+  
+- React
+- HTML/CSS
+- JavaScript
+- jsPDF
+- html2canvas
 
 # Getting Started with Create React App
 
