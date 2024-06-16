@@ -1,3 +1,5 @@
+# Resume-Builder
+
 ## Introduction
 
 resume_builder simplifies the process of creating and maintaining resumes. Users can input their personal details, educational background, and work experience into dedicated forms. The application then displays this information in a structured format and provides an option to download it as a PDF for easy sharing and printing.
